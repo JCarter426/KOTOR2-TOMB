@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.0.1] - 2025-02-14
+
+### Added
+
+- Provide support for gendered languages.
+
 ## [1.0.0] - 2025-02-12
 
 ### Added
