@@ -3,7 +3,7 @@
 |||
 | -------- | -----------------------------------------------------------|
 | Title:   | Thematic Obscured Mausoleum Burial                         |
-| Version: | 1.0.1                                                      |
+| Version: | 1.0.2                                                      |
 | Game:    | Star Wars: Knights of the Old Republic II - The Sith Lords |
 | Author:  | Sniggles & JCarter426                                      |
 

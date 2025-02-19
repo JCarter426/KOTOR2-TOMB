@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.0.2] - 2025-02-19
+
+### Deprecated 
+- Removed gendered support because TSLPatcher has an issue when appendf.tlk is present and dialogf.tlk is not. Future versions will therefore require different installers for different languages when translations are available to avoid this issue.
+
 ## [1.0.1] - 2025-02-14
 
 ### Added
