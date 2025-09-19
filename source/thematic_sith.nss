@@ -167,7 +167,8 @@ void TSL_CopyForcePowersWithoutHealing(object oFrom, object oTo) {
 	for( i = 29; i <= 63; ++i )
 		if( GetSpellAcquired(i, oFrom) )
 			GrantSpell(i, oTo);
-	if( GetSpellAcquired(133, oFrom) )
+	i = 133;
+	if( GetSpellAcquired(i, oFrom) )
 		GrantSpell(i, oTo);
 	for( i = 135; i <= 184; ++i )
 		if( GetSpellAcquired(i, oFrom) )
