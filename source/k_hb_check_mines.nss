@@ -36,7 +36,7 @@ void HandleMines() {
 			sMsg += "Force Mastery";
 		else if( IsFormActive(oRevan, FORM_FORCE_I_FOCUS) )
 			sMsg += "nothing";
-		SendMessageToPC(GetFirstPC(), sMsg);
+		// SendMessageToPC(GetFirstPC(), sMsg);
 	}
 	
 	object oCheckMines = GetObjectByTag("check_mines");
