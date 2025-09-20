@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.3 - 2025-09-20
+
+### Changed
+
+- Commented out debug message.
+- Fix a bug with the vision of the player receiving medpac use as a Force power instead of Master Energy Resistance.
+
 ## [1.0.2] - 2025-02-19
 
 ### Deprecated 

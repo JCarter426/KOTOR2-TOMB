@@ -3,7 +3,7 @@
 |||
 | -------- | -----------------------------------------------------------|
 | Title:   | Thematic Obscured Mausoleum Burial                         |
-| Version: | 1.0.2                                                      |
+| Version: | 1.0.3                                                      |
 | Game:    | Star Wars: Knights of the Old Republic II - The Sith Lords |
 | Author:  | Sniggles & JCarter426                                      |
 
@@ -16,7 +16,7 @@ You must start a new game to experience the full effects of this mod.
 
 1. Extract files from the downloaded archive.
 2. Run INSTALL.exe.
-3. Click "Install Mod" and select your game directory (default name SWKotOR2).
+3. Click "Install Mod" and select your game directory.
 
 
 # Uninstallation
